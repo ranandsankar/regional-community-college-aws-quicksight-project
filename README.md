@@ -1,59 +1,41 @@
 # Regional Community College – AWS QuickSight Project
 
-This repository contains all documentation for the AWS QuickSight project completed as part of the Regional Community College Student Enrollment Analysis initiative.
+This repository contains my complete submission for the **AWS QuickSight Data Analytics Project**, covering:
 
-The project demonstrates:
-- Dataset preparation in QuickSight  
-- Creating visuals using Amazon Q  
-- Publishing dashboards  
-- Creating Q Topics and Named Entities  
-- Building Scenarios  
-- Generating a full Data Story using Q  
-- Iterative BI analysis and storytelling  
+- Dataset preparation
+- Analysis creation using Amazon Q
+- Custom Q Topic with Named Entities & Verified Questions
+- Interactive Dashboard
+- Scenario development
+- Full AI-assisted + manually enhanced Data Story
+- Complete project documentation meeting all rubric requirements
 
-📌 **NOTE:**  
-Since Amazon QuickSight does not provide exportable files for dashboards/analyses/topics/scenarios, this repo contains **documentation + screenshots** rather than raw .qs resources.
+A screenshot folder is included for visual evidence of all steps (required for submission).
 
 ---
 
-## 📂 Repository Structure
-├── README.md
-├── data/
-│ ├── Dataset_Fields.md
-│ ├── Calculated_Fields.md
-│ └── Refresh_Schedule.md
-├── analysis/
-│ ├── Analysis_Visuals.md
-│ ├── Dashboard_Details.md
-│ ├── Scenario_Notes.md
-│ └── Topic_and_Verified_Questions.md
-├── story/
-│ ├── Data_Story.md
-│ └── Story_Notes.md
-├── screenshots/
-│ └── (You will add your images here)
-└── resources/
-└── Project_Requirements.md
+## 📁 Repository Structure
 
+| File | Description |
+|------|-------------|
+| `project-overview.md` | Summary of the project and objectives |
+| `dataset-details.md` | Dataset fields, transformations, refresh schedule |
+| `analysis-visuals.md` | All visuals required by the rubric |
+| `topic-details.md` | Topic definition, included fields, named entities, verified questions |
+| `scenario-thread.md` | Scenario creation, starter question, follow-up Q&A |
+| `data-story.md` | Full data story text used in QuickSight |
+| `resources-created.md` | List of datasets, analyses, dashboards, topics, scenarios |
+| `/screenshots` |  Required screenshots for submission |
 
 ---
 
-## 📝 Submission Requirements
+## 🚀 How to View
 
-This repository includes:
-
-- List of Dataset Field names  
-- Dataset refresh schedule  
-- Calculated field formula  
-- All Analysis visuals (documented, with placeholders for your screenshots)  
-- All Topic Named Entities  
-- Verified Q&A list  
-- Dashboard description  
-- Scenario starter question + Thread  
-- Full Data Story  
-- Listings of all created QuickSight resources  
-
-Screenshots will be added in the `/screenshots` folder before submission.
+Open each markdown file above or browse through the project narrative.  
+Screenshots will appear inside the `/screenshots` directory as required for submission.
 
 ---
 
+## 🧑‍💻 Author
+**Anand SR**  
+Regional Community College AWS QuickSight Project  
