@@ -1,6 +1,3 @@
-
-# ✅ File 4 — **analysis-visuals.md**
-```md
 # Analysis Visuals
 
 This file documents all visuals created using Amazon Q.
