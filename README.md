@@ -18,14 +18,15 @@ A screenshot folder is included for visual evidence of all steps (required for s
 
 | File | Description |
 |------|-------------|
-| `project-overview.md` | Summary of the project and objectives |
-| `dataset-details.md` | Dataset fields, transformations, refresh schedule |
-| `analysis-visuals.md` | All visuals required by the rubric |
-| `topic-details.md` | Topic definition, included fields, named entities, verified questions |
-| `scenario-thread.md` | Scenario creation, starter question, follow-up Q&A |
-| `data-story.md` | Full data story text used in QuickSight |
-| `resources-created.md` | List of datasets, analyses, dashboards, topics, scenarios |
-| `/screenshots` |  Required screenshots for submission |
+| `docs/project-overview.md` | Summary of the project and objectives |
+| `docs/dataset-details.md` | Dataset fields, transformations, refresh schedule |
+| `docs/analysis-visuals.md` | All visuals required by the rubric |
+| `docs/topic-details.md` | Topic definition, included fields, named entities, verified questions |
+| `docs/scenario-thread.md` | Scenario creation, starter question, follow-up Q&A |
+| `docs/data-story.md` | Full data story text used in QuickSight |
+| `docs/resources-created.md` | List of datasets, analyses, dashboards, topics, scenarios |
+| `submission/project_report.pdf` |  recommendation report to Regional Community College  |
+| `submission/submission_doc.docx` |  Required deliverable to meet the submission instructions  |
 
 ---
 
